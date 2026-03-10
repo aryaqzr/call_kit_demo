@@ -1,0 +1,5 @@
+{
+  "name": "Aura Digital - Ethereal Echoes",
+  "description": "A minimalist digital journey through sound, light, and the architecture of the void.",
+  "requestFramePermissions": ["camera", "microphone"]
+}
